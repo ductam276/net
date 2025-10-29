@@ -1,8 +1,8 @@
 [
   { "title": "Ublock", "url": "https://chromewebstore.google.com/detail/ublock-origin-lite" },
-  { "title": "GitHub", "url": "https://github.com" }
-  { "title": "Msys32", "url": "https://www.msys2.org/" }
-  { "title": "Codeblock", "url": "https://www.codeblocks.org/downloads/binaries/#imagesoswindows48pnglogo-microsoft-windows" }
-  { "title": "GGsheet", "url": "https://docs.google.com/spreadsheets/create?hl=vi" }
+  { "title": "GitHub", "url": "https://github.com" },
+  { "title": "Msys32", "url": "https://www.msys2.org/" },
+  { "title": "Codeblock", "url": "https://www.codeblocks.org/downloads/binaries/#imagesoswindows48pnglogo-microsoft-windows" },
+  { "title": "GGsheet", "url": "https://docs.google.com/spreadsheets/create?hl=vi" },
   { "title": "Msys32", "url": "https://www.msys2.org/" }
 ]
